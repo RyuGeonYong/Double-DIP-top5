@@ -1,5 +1,5 @@
 # Double-DIP-top5
-double-dip code reform
+Double-DIP code reform to collect top5 PSNR that make result
 
 # Reference
 https://github.com/yossigandelsman/DoubleDIP
